@@ -1,2 +1,3 @@
-this is first file.
-this is second line of the first file.
+git remote add origin git@github.com:qwertyz15/100-days-of-Machine-Learning.git
+git branch -M main
+git push -u origin main
